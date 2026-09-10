@@ -6,3 +6,5 @@ def add(x,y):
 def substract(x,y):
     """Substracts  two numbers and returns the results."""
     return x - y
+
+# Falta las otras operaciones
